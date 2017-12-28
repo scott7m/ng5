@@ -21,7 +21,7 @@ export class AboutComponent implements OnInit {
   }
 
   sendMeHome() {
-    this.router.navigate(['']);
+    this.router.navigate(['contact']);
   }
 
 }
